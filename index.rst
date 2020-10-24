@@ -10,6 +10,8 @@ Welcome to 可持续生活指南's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   about
+
 
 
 Indices and tables
