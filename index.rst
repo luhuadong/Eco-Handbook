@@ -16,6 +16,9 @@ Welcome to 可持续生活指南's documentation!
    organization/index
    life_record/index
 
+   编写指南
+   编写规范
+
    about
 
 
