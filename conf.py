@@ -32,7 +32,12 @@ master_doc = 'index'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'recommonmark',
+    'sphinx_markdown_tables',
+    'sphinxemoji.sphinxemoji',
 ]
+
+sphinxemoji_style = 'twemoji'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
