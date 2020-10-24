@@ -16,6 +16,7 @@
    life_record/index
    环境污染/index
    有机农业/index
+   项目分享/index
 
    about/index
 
