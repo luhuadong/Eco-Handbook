@@ -8,8 +8,7 @@ Welcome to 可持续生活指南's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   
    zerowaste_beginner/index
    garbage_sorting/index
    green_finance/index
@@ -19,7 +18,7 @@ Welcome to 可持续生活指南's documentation!
    编写指南
    编写规范
 
-   about
+   about/index
 
 
 
