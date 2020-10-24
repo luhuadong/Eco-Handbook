@@ -7,16 +7,17 @@
 ==========================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
-   zerowaste_beginner/index
-   garbage_sorting/index
-   green_finance/index
-   organization/index
-   life_record/index
+   零垃圾新手入门/index
+   垃圾分类/index
+   绿色金融/index
    环境污染/index
    有机农业/index
+   环保组织/index
+   生活记录/index
    项目分享/index
+   信息列表/index
 
    about/index
 
