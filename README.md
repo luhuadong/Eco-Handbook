@@ -1,7 +1,11 @@
 # GreenGuide
 
 ### 介绍
-《可持续生活指南》
+《[可持续生活指南](https://greenguide.readthedocs.io/)》
+
+
+
+![](_static/images/qrcode_long.png)
 
 
 
