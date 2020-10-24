@@ -9,5 +9,7 @@
 
 ![](_static/images/vloveit_logo.png)
 
-<img src="_static/images/ck_logo.png" style="zoom:50%;" />
+![](_static/images/ck_logo_123x123.png)
+
+
 

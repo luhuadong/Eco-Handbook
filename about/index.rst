@@ -21,3 +21,10 @@
 
 .. _编写指南: https://gitee.com/luhuadong/green-guide/blob/master/about/%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97.md
 .. _编写规范: https://gitee.com/luhuadong/green-guide/blob/master/about/%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83.md
+
+
+特别鸣谢
+----------------
+
+.. image:: ../_static/images/vloveit_logo.png
+.. image:: ../_static/images/ck_logo_123x123.png
