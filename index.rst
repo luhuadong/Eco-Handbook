@@ -10,6 +10,12 @@ Welcome to 可持续生活指南's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   zerowaste_beginner/index
+   garbage_sorting/index
+   green_finance/index
+   organization/index
+   life_record/index
+
    about
 
 
