@@ -1,19 +1,13 @@
 # GreenGuide
 
-#### 介绍
+### 介绍
 《可持续生活指南》
 
 
 
+### 感谢
 
+![](_static/images/vloveit_logo.png)
 
-- 垃圾分类（后端处理）
-- 堆肥
-- 动物保护
+<img src="_static/images/ck_logo.png" style="zoom:50%;" />
 
-
-
-
-
-- 编写规范
-- Markdown 语法
