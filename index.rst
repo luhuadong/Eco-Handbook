@@ -3,20 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 可持续生活指南's documentation!
+《可持续生活指南》
 ==========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    zerowaste_beginner/index
    garbage_sorting/index
    green_finance/index
    organization/index
    life_record/index
-
-   编写指南
-   编写规范
+   环境污染/index
+   有机农业/index
 
    about/index
 
