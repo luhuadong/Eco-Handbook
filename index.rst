@@ -21,7 +21,7 @@
 
    about/index
 
-.. image:: ../_static/images/qrcode_long.png
+.. image:: ./_static/images/qrcode_long.png
 
 Indices and tables
 ==================
