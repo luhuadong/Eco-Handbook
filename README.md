@@ -5,15 +5,15 @@
 
 
 
-![](_static/images/qrcode_long.png)
+![](source/_static/images/qrcode_long.png)
 
 
 
 ### 感谢
 
-![](_static/images/vloveit_logo.png)
+![](source/_static/images/vloveit_logo.png)
 
-![](_static/images/ck_logo_123x123.png)
+![](source/_static/images/ck_logo_123x123.png)
 
 
 
