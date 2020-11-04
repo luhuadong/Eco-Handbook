@@ -1,0 +1,43 @@
+# 旧版目录
+
+
+
+- 零垃圾新手入门
+  - [第一天 | 想一想 为什么要开始零废弃](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_01.html)
+  - [第二天 | 检查垃圾桶了 解垃圾种类以及个人消费习惯](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_02.html)
+  - [第三天 | 生活套包 减少塑料消费的同时又省钱](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_03.html)
+  - [第四天 | 居家厨余堆肥 了解自己浪费了多少食物](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_04.html)
+  - [第五天 | 消费禁制令 跳出资本编织的消费圈套](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_05.html)
+  - [第六天 | 来一场零浪费购物 带着容器去购物 和卖菜的阿叔聊一聊](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_06.html)
+  - [第七天 | 做一顿零浪费饭菜 购买应季的新鲜蔬菜](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_07.html)
+  - [第八天 | 杜绝食物浪费 检查冰箱 准备一个优先食用的容器](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_08.html)
+  - [第九天 | 清理衣物 衣服分类 将不适合或很久没穿的处理掉](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_09.html)
+  - [第十天 | 护肤品整理 拥抱自然美 让皮肤和钱包都轻松一些](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_10.html)
+  - [第十一天 | 自制美容产品 椰子油 橄榄油 荷荷巴油](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_11.html)
+  - [第十二天 自制清洁用品 茶籽粉 醋➕橘子皮](https://greenguide.readthedocs.io/en/latest/零垃圾新手入门/Day_12.html)
+- 垃圾分类
+  - [如何参与垃圾分类](https://greenguide.readthedocs.io/en/latest/垃圾分类/如何参与垃圾分类.html)
+  - [餐厨垃圾的流向](https://greenguide.readthedocs.io/en/latest/垃圾分类/餐厨垃圾的流向.html)
+  - [塑料容器的身份证](https://greenguide.readthedocs.io/en/latest/垃圾分类/塑料容器的身份证.html)
+- 绿色金融
+  - [碳排放权交易是怎么回事](https://greenguide.readthedocs.io/en/latest/绿色金融/碳排放权交易是怎么回事.html)
+- 环境污染
+  - [空气污染](https://greenguide.readthedocs.io/en/latest/环境污染/空气污染.html)
+  - [塑料污染](https://greenguide.readthedocs.io/en/latest/环境污染/塑料污染.html)
+  - [海洋污染](https://greenguide.readthedocs.io/en/latest/环境污染/海洋污染.html)
+- 有机农业
+  - [初识堆肥](https://greenguide.readthedocs.io/en/latest/有机农业/初识堆肥.html)
+- 环保组织
+- 生活记录
+- 项目分享
+  - [Precious Plastic](https://greenguide.readthedocs.io/en/latest/项目分享/Precious-Plastic.html)
+- 信息列表
+  - [找到组织](https://greenguide.readthedocs.io/en/latest/信息列表/找到组织.html)
+  - [回收渠道](https://greenguide.readthedocs.io/en/latest/信息列表/回收渠道.html)
+  - [图书推荐](https://greenguide.readthedocs.io/en/latest/信息列表/图书推荐.html)
+  - [纪录片推荐](https://greenguide.readthedocs.io/en/latest/信息列表/纪录片推荐.html)
+- 关于我们
+  - [编写指南](https://greenguide.readthedocs.io/en/latest/about/编写指南.html)
+  - [编写规范](https://greenguide.readthedocs.io/en/latest/about/编写规范.html)
+  - [团队成员](https://greenguide.readthedocs.io/en/latest/about/index.html#id2)
+  - [特别鸣谢](https://greenguide.readthedocs.io/en/latest/about/index.html#id5)
