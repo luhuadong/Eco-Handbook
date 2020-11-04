@@ -35,7 +35,7 @@ extensions = [
     'recommonmark',
     'sphinx_markdown_tables',
     'sphinxemoji.sphinxemoji',
-    'cakephp_theme',
+    #'cakephp_theme',
 ]
 
 sphinxemoji_style = 'twemoji'
@@ -71,15 +71,15 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-import cakephp_theme
-html_theme_path = [cakephp_theme.get_html_theme_path()]
-html_theme = 'cakephp_theme'
+#import cakephp_theme
+#html_theme_path = [cakephp_theme.get_html_theme_path()]
+#html_theme = 'cakephp_theme'
 #extensions = ['cakephp_theme']
-html_context = {
-    'maintainer': '可持续分享ZHE',
-    'project_pretty_name': '可持续生活指南',
-    'projects': {
-        '在线文档': 'https://greenguide.readthedocs.io/',
-        '文档仓库': 'https://gitee.com/luhuadong/green-guide',
-    }
-}
+#html_context = {
+#    'maintainer': '可持续分享ZHE',
+#    'project_pretty_name': '可持续生活指南',
+#    'projects': {
+#        '在线文档': 'https://greenguide.readthedocs.io/',
+#        '文档仓库': 'https://gitee.com/luhuadong/green-guide',
+#    }
+#}
