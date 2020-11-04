@@ -7,8 +7,15 @@
 ===========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   编写指南
+   编写规范
+
+----
+
+团队成员
+----------------
 
 - Rudy
 - 辣辣
@@ -21,6 +28,7 @@
 
 .. _编写指南: https://gitee.com/luhuadong/green-guide/blob/master/about/%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97.md
 .. _编写规范: https://gitee.com/luhuadong/green-guide/blob/master/about/%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83.md
+
 
 
 特别鸣谢
