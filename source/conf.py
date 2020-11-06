@@ -37,6 +37,7 @@ extensions = [
     'recommonmark',
     'sphinx_markdown_tables',
     'sphinxemoji.sphinxemoji',
+    'sphinx_material',
     #'cakephp_theme',
 ]
 
@@ -48,6 +49,7 @@ source_suffix = {
 
 sphinxemoji_style = 'twemoji'
 
+# Use custom CSS configs
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -70,30 +72,50 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 #html_theme = 'alabaster'
-html_theme = 'sphinx_rtd_theme'
-#html_theme = 'sphinx_materialdesign_theme'
-# cakephp_theme
-# yummy-sphinx-theme
+#html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_material'
+html_title = '可持续生活指南'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-#import cakephp_theme
-#html_theme_path = [cakephp_theme.get_html_theme_path()]
-#html_theme = 'cakephp_theme'
-#extensions = ['cakephp_theme']
-#html_context = {
-#    'maintainer': '可持续分享ZHE',
-#    'project_pretty_name': '可持续生活指南',
-#    'projects': {
-#        '在线文档': 'https://greenguide.readthedocs.io/',
-#        '文档仓库': 'https://gitee.com/luhuadong/green-guide',
-#    }
-#}
+#---sphinx_material-----
+import sphinx_material
 
-#---sphinx_hand_theme-----
-html_theme = 'sphinx_hand_theme'
-import sphinx_hand_theme
-html_theme_path = [sphinx_hand_theme.get_html_theme_path()]
+html_theme_options = {
+    # 'base_url': base_url,
+    'color_primary': 'green',  # light-green
+    'color_accent': 'orange',
+    'logo_icon': '&#xe150',
+    'master_doc': False,
+
+    # Set you GA account ID to enable tracking
+    # 'google_analytics_account': 'UA-XXXXX',
+
+    # Set the repo location to get a badge with stats
+    'repo_url': 'https://gitee.com/luhuadong/green-guide',
+    'repo_name': 'green-guide',
+
+    # Visible levels of the global TOC; -1 means unlimited
+    'globaltoc_depth': 2,
+    # If False, expand all TOC entries
+    'globaltoc_collapse': False,
+    # If True, show hidden TOC entries
+    'globaltoc_includehidden': False, 
+
+    # An open-source sustainable living guide
+    'heroes': {'index': 'An open-source document for writing sustainable living guide',
+               '文档结构样式/index': 'Structure, Focus, Unity and Flow',
+               '语言风格/index': 'Stay Close to Your Users',
+               '文档内容元素/index': 'Details Matter',
+               '标点符号/index': 'Details Matter'},
+}
+
+html_theme_path = sphinx_material.html_theme_path()
+html_context = sphinx_material.get_html_context()
+html_sidebars = {
+    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
+}
+
