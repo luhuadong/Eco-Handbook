@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = '可持续生活指南'
-copyright = '2020, GoGreen'
-author = 'GoGreen'
+copyright = '2020, 可持续分享ZHE'
+author = '可持续分享ZHE'
 
 # The full version, including alpha/beta/rc tags
 release = 'v0.0.1'
@@ -32,11 +32,19 @@ master_doc = 'index'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.todo',
+    'sphinx.ext.githubpages',
     'recommonmark',
     'sphinx_markdown_tables',
     'sphinxemoji.sphinxemoji',
     #'cakephp_theme',
 ]
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+    '.txt': 'markdown',
+}
 
 sphinxemoji_style = 'twemoji'
 
@@ -63,6 +71,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_materialdesign_theme'
 # cakephp_theme
 # yummy-sphinx-theme
 
@@ -83,3 +92,8 @@ html_static_path = ['_static']
 #        '文档仓库': 'https://gitee.com/luhuadong/green-guide',
 #    }
 #}
+
+#---sphinx_hand_theme-----
+html_theme = 'sphinx_hand_theme'
+import sphinx_hand_theme
+html_theme_path = [sphinx_hand_theme.get_html_theme_path()]
