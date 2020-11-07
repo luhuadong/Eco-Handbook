@@ -1,3 +1,3 @@
 sphinx_markdown_tables
 sphinxemoji
-sphinx_material
+sphinx_materialdesign_theme
