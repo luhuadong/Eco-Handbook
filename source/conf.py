@@ -1,1 +1,1 @@
-theme_conf/sphinx_materialdesign_theme_conf.py
+theme_conf/sphinx_material_conf.py

@@ -88,7 +88,7 @@ html_theme_options = {
     # 'base_url': base_url,
     'color_primary': 'green',  # light-green
     'color_accent': 'orange',
-    'logo_icon': '&#xe150',
+    'logo_icon': '&#xe152',  # &#xe869  &#xe150
     'master_doc': False,
 
     # Set you GA account ID to enable tracking
