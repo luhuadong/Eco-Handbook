@@ -80,6 +80,10 @@ html_title = '可持续生活指南'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_css_files = [
+    'css/common.css',
+    'css/custom.css',
+]
 
 #---sphinx_material-----
 import sphinx_material

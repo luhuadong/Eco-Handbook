@@ -3,8 +3,77 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-《可持续生活指南》
-==========================================
+
+.. raw:: html
+
+   <h1 align="center">可持续生活指南</h1>
+   <p align="center">
+      <img src="http://pcd.org.hk/themes/pcd2019/images/top-graphic.jpg">
+   </p>
+
+   <div class="grid">
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>农业</h2>
+         </a>
+         <p>农业</p>
+      </div>
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>能源</h2>
+         </a>
+         <p>能源</p>
+      </div>
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>素食</h2>
+         </a>
+         <p>素食</p>
+      </div>
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>回收</h2>
+         </a>
+         <p>回收</p>
+      </div>
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>海洋污染</h2>
+         </a>
+         <p>海洋污染</p>
+      </div>
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>全球变暖</h2>
+         </a>
+         <p>全球变暖</p>
+      </div>
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>绿色金融</h2>
+         </a>
+         <p>绿色金融</p>
+      </div>
+      <div class="grid-item">
+         <a href="/subjects/a/">
+            <h2>城镇转型</h2>
+         </a>
+         <p>城镇转型</p>
+      </div>
+   </div>
+
+连接
+============
+
+You can contact me via online contact form available on `my website <http://zerotogether.net>`_.
+
+许可
+=======
+
+.. literalinclude:: ../LICENSE
+
+目录
+=======
 
 .. toctree::
    :maxdepth: 1
@@ -22,6 +91,21 @@
    about/index
 
 .. image:: ./_static/images/qrcode_long.png
+
+项目
+========
+
+.. rst-class:: center
+.. figure:: _static/images/top-graphic.jpg
+    :align: center
+
+.. rst-class:: center
+.. rst-class:: index_links
+
+    `ZeroTogether <http://zerotogether.net>`_ ·
+    `Gitee <https://gitee.com/luhuadong/green-guide>`_ ·
+    `Read the Docs <https://greenguide.readthedocs.io>`_
+
 
 Indices and tables
 ==================
