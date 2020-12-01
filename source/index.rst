@@ -90,7 +90,7 @@ You can contact me via online contact form available on `my website <http://zero
 
    about/index
 
-.. image:: ./_static/images/qrcode_long.png
+.. image:: ./_static/images/qrcode_https_zerotogether.net.png
 
 项目
 ========

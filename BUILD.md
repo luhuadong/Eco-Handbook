@@ -73,6 +73,12 @@ pip install sphinx_materialdesign_theme
 pip install sphinxemoji
 ```
 
+快捷安装
+
+```shell
+pip install -r requirements.txt
+```
+
 
 
 ## 本地运行
