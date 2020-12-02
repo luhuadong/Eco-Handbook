@@ -65,6 +65,8 @@
 连接
 ============
 
+我有想参与环保，过可持续生活，但我不知道怎么做......
+
 You can contact me via online contact form available on `my website <http://zerotogether.net>`_.
 
 许可
@@ -79,13 +81,12 @@ You can contact me via online contact form available on `my website <http://zero
    :maxdepth: 1
    
    21天零垃圾手册/index
-   零垃圾新手入门/index
    垃圾分类/index
    绿色金融/index
    环境污染/index
    有机农业/index
    环保组织/index
-   生活记录/index
+   Upcycling/index
    项目分享/index
    信息列表/index
 
