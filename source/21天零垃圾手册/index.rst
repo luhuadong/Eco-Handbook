@@ -31,6 +31,18 @@
 
 所以，我为你准备了一份《21天零垃圾生活养成手册》，从今天开始，我会每天分享一个零垃圾小任务，连续21天。如果你愿意，不妨跟我一起，每天只做一件小事，说不定21天后，你会发现改变已经悄然发生。
 
+.. image:: images/All_01.jpg
+   :align: center
+   :width: 520
+
+.. image:: images/All_02.jpg
+   :align: center
+   :width: 520
+
+.. image:: images/All_03.jpg
+   :align: center
+   :width: 520
+
 目录
 --------
 
