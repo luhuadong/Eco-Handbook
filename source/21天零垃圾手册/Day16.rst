@@ -107,7 +107,7 @@ There is no AWAY.  在 Zero Waster 眼里，没有什么“一扔了之”。**�
 飞蚂蚁
 >>>>>>>>>>>>>>>>
 
-衣服回收平台中最出名的应该是 **飞蚂蚁** 了吧。`旧衣不要扔，全国90+城市免费上门收，环保+公益，旧衣有了新去处！<https://mp.weixin.qq.com/s?__biz=MzA4NzcwOTI3MA==&mid=2650509402&idx=1&sn=d9338d628eaa8accc95f1d48f7b154e5&scene=21#wechat_redirect>`_
+衣服回收平台中最出名的应该是 **飞蚂蚁** 了吧。`旧衣不要扔，全国90+城市免费上门收，环保+公益，旧衣有了新去处！ <https://mp.weixin.qq.com/s?__biz=MzA4NzcwOTI3MA==&mid=2650509402&idx=1&sn=d9338d628eaa8accc95f1d48f7b154e5&scene=21#wechat_redirect>`_
 
 接收物品种类包括：衣服、包包、鞋子、床单、枕套、被罩、窗帘、小毛绒玩具。不过需要提醒的是：飞蚂蚁接收的衣服只有10%会进入公益捐赠渠道，大部分（75%）会被打碎做成再生材料，另外15%则通过外贸公司出口。
 
