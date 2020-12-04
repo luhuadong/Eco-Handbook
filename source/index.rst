@@ -8,7 +8,7 @@
 
    <h1 align="center">可持续生活指南</h1>
    <p align="center">
-      <img src="http://pcd.org.hk/themes/pcd2019/images/top-graphic.jpg">
+      <img src="_static/images/top-graphic.jpg">
    </p>
    
    <!--
@@ -86,6 +86,21 @@
       </div>
    </div>
 
+
+项目
+============
+
+.. rst-class:: center
+.. rst-class:: index_links
+
+   `ZeroTogether <http://zerotogether.net>`_ ·
+   `Gitee <https://gitee.com/luhuadong/green-guide>`_ ·
+   `Read the Docs <https://greenguide.readthedocs.io>`_
+
+.. image:: ./_static/images/qrcode_https_zerotogether.net.png
+   :align: center
+
+
 连接
 ============
 
@@ -94,45 +109,41 @@
 You can contact me via online contact form available on `my website <http://zerotogether.net>`_.
 
 许可
-=======
+============
 
-.. literalinclude:: ../LICENSE
+.. code-block::
+
+   Attribution-ShareAlike 4.0 International
+
+   =======================================================================
+
+   Using Creative Commons Public Licenses 
+
 
 目录
-=======
+============
 
 .. toctree::
    :maxdepth: 1
    
    走进可持续生活/index
-   21天零垃圾手册/index
    垃圾分类/index
    绿色金融/index
    环境污染/index
    有机农业/index
-   环保组织/index
    Upcycling/index
+   21天零垃圾手册/index
    SSE/index
    项目分享/index
    信息列表/index
 
    about/index
 
-.. image:: ./_static/images/qrcode_https_zerotogether.net.png
 
-项目
-========
+关于
+==================
 
-.. rst-class:: center
-.. figure:: _static/images/top-graphic.jpg
-    :align: center
-
-.. rst-class:: center
-.. rst-class:: index_links
-
-    `ZeroTogether <http://zerotogether.net>`_ ·
-    `Gitee <https://gitee.com/luhuadong/green-guide>`_ ·
-    `Read the Docs <https://greenguide.readthedocs.io>`_
+.. literalinclude:: about.index
 
 
 Indices and tables
