@@ -127,7 +127,8 @@ You can contact me via online contact form available on `my website <http://zero
    :maxdepth: 1
    
    走进可持续生活/index
-   垃圾分类/index
+   垃圾都去哪儿了/index
+
    绿色金融/index
    环境污染/index
    有机农业/index
