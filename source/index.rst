@@ -10,8 +10,20 @@
    <p align="center">
       <img src="http://pcd.org.hk/themes/pcd2019/images/top-graphic.jpg">
    </p>
+   
+   <div class="video" align="center">
+      <iframe src="https://player.bilibili.com/player.html?aid=202973587&bvid=BV14a411F7C1&cid=262449069&page=1&high_quality=1" width="640" height="480" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   </div>
+
+   <br>
 
    <div class="grid">
+      <div class="grid-item">
+         <a href="21天零垃圾手册/index.html">
+            <h2>21天手册</h2>
+         </a>
+         <p>21天零垃圾生活养成手册</p>
+      </div>
       <div class="grid-item">
          <a href="/subjects/a/">
             <h2>农业</h2>
@@ -80,6 +92,7 @@ You can contact me via online contact form available on `my website <http://zero
 .. toctree::
    :maxdepth: 1
    
+   走进可持续生活/index
    21天零垃圾手册/index
    垃圾分类/index
    绿色金融/index
