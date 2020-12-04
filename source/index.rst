@@ -78,6 +78,12 @@
          </a>
          <p>城镇转型</p>
       </div>
+      <div class="grid-item">
+         <a href="/SSE/index.html">
+            <h2>SSE</h2>
+         </a>
+         <p>可持续软件工程</p>
+      </div>
    </div>
 
 连接
@@ -106,6 +112,7 @@ You can contact me via online contact form available on `my website <http://zero
    有机农业/index
    环保组织/index
    Upcycling/index
+   SSE/index
    项目分享/index
    信息列表/index
 
