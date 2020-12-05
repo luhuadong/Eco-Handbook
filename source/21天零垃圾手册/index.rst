@@ -14,6 +14,8 @@
 
             1 Year of Zero Waste Life
 
+            —— Elsa 老汤
+
 这一年中，总会时不时听到身边不同的朋友同样的评价：“你好棒哦，但我觉得我肯定做不到。” 嗯？这话听起来怎么这么耳熟？一年前，我第一次从Lauren Singer的报道中知道零垃圾这个概念时，不也说了一模一样的话吗？
 
 .. image:: images/Index_001.jpg

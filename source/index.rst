@@ -25,6 +25,18 @@
 
    <div class="grid">
       <div class="grid-item">
+         <a href="走进可持续生活/index.html">
+            <h2>Quick Start</h2>
+         </a>
+         <p>走进可持续生活</p>
+      </div>
+      <div class="grid-item">
+         <a href="垃圾都去哪儿了/index.html">
+            <h2>垃圾分类</h2>
+         </a>
+         <p>垃圾都去哪儿了</p>
+      </div>
+      <div class="grid-item">
          <a href="21天零垃圾手册/index.html">
             <h2>21天手册</h2>
          </a>
@@ -44,9 +56,9 @@
       </div>
       <div class="grid-item">
          <a href="/subjects/a/">
-            <h2>素食</h2>
+            <h2>食物</h2>
          </a>
-         <p>素食</p>
+         <p>你吃什么很重要</p>
       </div>
       <div class="grid-item">
          <a href="/subjects/a/">
