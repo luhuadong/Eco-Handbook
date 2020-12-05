@@ -45,10 +45,10 @@
       </div>
       -->
       <div class="grid-item">
-         <a href="/subjects/a/">
-            <h2>农业</h2>
+         <a href="/信息列表/organic_farms.html">
+            <h2>CSA</h2>
          </a>
-         <p>农业</p>
+         <p>有机农业</p>
       </div>
       <div class="grid-item">
          <a href="/subjects/a/">
