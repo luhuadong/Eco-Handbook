@@ -64,12 +64,6 @@
       </div>
       <div class="grid-item">
          <a href="/subjects/a/">
-            <h2>回收</h2>
-         </a>
-         <p>回收</p>
-      </div>
-      <div class="grid-item">
-         <a href="/subjects/a/">
             <h2>海洋污染</h2>
          </a>
          <p>海洋污染</p>
@@ -91,6 +85,12 @@
             <h2>城镇转型</h2>
          </a>
          <p>城镇转型</p>
+      </div>
+      <div class="grid-item">
+         <a href="/信息列表/NGO.html">
+            <h2>NGO</h2>
+         </a>
+         <p>环保组织</p>
       </div>
       <div class="grid-item">
          <a href="/SSE/index.html">
@@ -147,7 +147,6 @@ You can contact me via online contact form available on `my website <http://zero
    环境污染/index
    有机农业/index
    Upcycling/index
-   21天零垃圾手册/index
    SSE/index
    项目分享/index
    信息列表/index

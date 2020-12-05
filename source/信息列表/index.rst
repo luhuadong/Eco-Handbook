@@ -10,8 +10,8 @@
    :maxdepth: 2
 
 
-   找到组织
+   organizations
+   documentary
+   books
    回收渠道
-   图书推荐
-   纪录片推荐
    organic_farms
