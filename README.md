@@ -1,7 +1,8 @@
 # GreenGuide
 
 ### 介绍
-《[可持续生活指南](https://greenguide.readthedocs.io/)》
+
+《[可持续生活指南](https://zerotogether.net)》
 
 
 
