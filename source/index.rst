@@ -87,7 +87,7 @@
          <p>城镇转型</p>
       </div>
       <div class="grid-item">
-         <a href="/信息列表/NGO.html">
+         <a href="/信息列表/organizations.html">
             <h2>NGO</h2>
          </a>
          <p>环保组织</p>
