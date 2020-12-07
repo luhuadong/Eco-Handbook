@@ -12,6 +12,7 @@
 
    organizations
    documentary
+   talks
    books
    回收渠道
    organic_farms
