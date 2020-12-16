@@ -99,7 +99,7 @@
          <p>纪录片列表</p>
       </div>
       <div class="grid-item">
-         <a href="/info/books.html">
+         <a href="/info/books/index.html">
             <h2>图书</h2>
          </a>
          <p>图书推荐</p>
