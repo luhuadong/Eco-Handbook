@@ -87,16 +87,22 @@
          <p>城镇转型</p>
       </div>
       <div class="grid-item">
-         <a href="/信息列表/organizations.html">
+         <a href="/info/organizations.html">
             <h2>NGO</h2>
          </a>
          <p>环保组织</p>
       </div>
       <div class="grid-item">
-         <a href="/信息列表/documentary.html">
+         <a href="/info/documentary.html">
             <h2>纪录片</h2>
          </a>
          <p>纪录片列表</p>
+      </div>
+      <div class="grid-item">
+         <a href="/info/books.html">
+            <h2>图书</h2>
+         </a>
+         <p>图书推荐</p>
       </div>
       <div class="grid-item">
          <a href="/SSE/index.html">
@@ -161,7 +167,7 @@ You can contact me via online contact form available on `my website <http://zero
    Upcycling/index
    SSE/index
    projects/index
-   信息列表/index
+   info/index
 
    about/index
 
