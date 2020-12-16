@@ -8,4 +8,4 @@ Precious Plastic
    :maxdepth: 1
 
    precious_plastic_manual_zh
-   
+   precious_plastic_china

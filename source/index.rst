@@ -104,6 +104,12 @@
          </a>
          <p>可持续软件工程</p>
       </div>
+      <div class="grid-item">
+         <a href="/projects/pp/index.html">
+            <h2>PP</h2>
+         </a>
+         <p>Precious Plastic</p>
+      </div>
    </div>
 
 
