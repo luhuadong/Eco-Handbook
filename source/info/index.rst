@@ -13,6 +13,6 @@
    organizations
    documentary
    talks
-   books
+   books/index
    回收渠道
    organic_farms
