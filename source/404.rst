@@ -1,0 +1,14 @@
+404
+============
+
+.. note:: 内容待补充，敬请期待！
+
+
+.. rst-class:: center
+.. rst-class:: index_links
+
+   `返回首页 <index.html>`_ ·
+   `参与贡献 <https://gitee.com/luhuadong/green-guide>`_
+
+|
+

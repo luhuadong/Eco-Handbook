@@ -45,37 +45,37 @@
       </div>
       -->
       <div class="grid-item">
-         <a href="/信息列表/organic_farms.html">
+         <a href="/info/organic_farms.html">
             <h2>CSA</h2>
          </a>
          <p>有机农业</p>
       </div>
       <div class="grid-item">
-         <a href="/subjects/a/">
+         <a href="404.html">
             <h2>能源</h2>
          </a>
          <p>能源</p>
       </div>
       <div class="grid-item">
-         <a href="/subjects/a/">
+         <a href="404.html">
             <h2>食物</h2>
          </a>
          <p>你吃什么很重要</p>
       </div>
       <div class="grid-item">
-         <a href="/subjects/a/">
+         <a href="404.html">
             <h2>海洋污染</h2>
          </a>
          <p>海洋污染</p>
       </div>
       <div class="grid-item">
-         <a href="/subjects/a/">
+         <a href="404.html">
             <h2>全球变暖</h2>
          </a>
          <p>全球变暖</p>
       </div>
       <div class="grid-item">
-         <a href="/subjects/a/">
+         <a href="404.html">
             <h2>绿色金融</h2>
          </a>
          <p>绿色金融</p>
@@ -125,7 +125,7 @@
 .. rst-class:: center
 .. rst-class:: index_links
 
-   `ZeroTogether <http://zerotogether.net>`_ ·
+   `ZeroTogether <https://zerotogether.net>`_ ·
    `Gitee <https://gitee.com/luhuadong/green-guide>`_ ·
    `Read the Docs <https://greenguide.readthedocs.io>`_
 
