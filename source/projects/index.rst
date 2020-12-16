@@ -9,5 +9,5 @@
 .. toctree::
    :maxdepth: 2
 
-   Precious-Plastic
+   pp/index
    

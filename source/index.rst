@@ -154,7 +154,7 @@ You can contact me via online contact form available on `my website <http://zero
    有机农业/index
    Upcycling/index
    SSE/index
-   项目分享/index
+   projects/index
    信息列表/index
 
    about/index
