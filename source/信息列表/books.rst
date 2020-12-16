@@ -1,6 +1,18 @@
 图书推荐
 ===========================================
 
+垃圾分类的全球经验与上海实践
+-------------------------------------------
+
+垃圾与每一个人密切相关，面对日益紧迫的垃圾问题，2019年7月1日，被称为中国“严垃圾分类措施”的《上海市生活垃圾管理条例》正式实施。那么，上海为何要强制推行垃圾分类？这次推广垃圾分类的成效如何？2020年，中国还将有46个城市基本建成垃圾分类处理系统。上海的垃圾分类实践经验有哪些可供中国其他城市参考？在全球范围内，还有哪些值得借鉴的垃圾分类经验呢？本书将做出直观的分析与回答。
+
+.. image:: images/book_thepaper_waste_management.jpg
+   :align: center
+   :alt: 垃圾分类的国际经验与上海实践
+   :target: https://union-click.jd.com/jdc?e=&p=AyIGZRNdEAoSBVcTWyUCEwZWG1gQABIHVB1aEDJWWA1FBCVbV0IUWVALHEpCAUdESR1JUkpJBUkcVFcWT0VSWkZBSksJUFpMWFtdC1ZWalJZG1oUARIEUBlbFQMUBlArG0IcYFBXaClwexFxU0JFV3h1WCFcDRkOIgZlG1oUABcHUR5ZEzIiB1IrGnsGFwZcEmsUMhIAVBJbFgASAVwcWBMyFQdcKwZRUEhPAEsYR0oiN2UYayUyEjdWKxl7UEVQVRoMQAMWAwEaXkFRFVddTAwUVhoPURoJRgVAAAArWRQDFg4%3D
+
+
+
 寂靜的春天
 -------------------------------------------
 
