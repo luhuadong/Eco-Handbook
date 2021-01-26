@@ -165,6 +165,7 @@ You can contact me via online contact form available on `my website <http://zero
    环境污染/index
    有机农业/index
    Upcycling/index
+   circular-economy/index
    SSE/index
    projects/index
    info/index
