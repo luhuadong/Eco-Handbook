@@ -169,6 +169,7 @@ You can contact me via online contact form available on `my website <http://zero
    SSE/index
    projects/index
    info/index
+   business/index
 
    about/index
 
