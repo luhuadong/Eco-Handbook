@@ -1,4 +1,0 @@
-sphinx_markdown_tables
-sphinxemoji
-sphinx_materialdesign_theme
-sphinx_material
