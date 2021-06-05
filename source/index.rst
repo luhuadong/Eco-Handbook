@@ -170,6 +170,7 @@ You can contact me via online contact form available on `my website <http://zero
    projects/index
    info/index
    business/index
+   recycling/index
 
    about/index
 
