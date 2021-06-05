@@ -25,13 +25,13 @@
 
    <div class="grid">
       <div class="grid-item">
-         <a href="走进可持续生活/index.html">
+         <a href="quick-start/index.html">
             <h2>Quick Start</h2>
          </a>
          <p>走进可持续生活</p>
       </div>
       <div class="grid-item">
-         <a href="垃圾都去哪儿了/index.html">
+         <a href="waste/index.html">
             <h2>垃圾分类</h2>
          </a>
          <p>垃圾都去哪儿了</p>
@@ -45,7 +45,7 @@
       </div>
       -->
       <div class="grid-item">
-         <a href="/info/organic_farms.html">
+         <a href="info/organic_farms.html">
             <h2>CSA</h2>
          </a>
          <p>有机农业</p>
@@ -81,37 +81,37 @@
          <p>绿色金融</p>
       </div>
       <div class="grid-item">
-         <a href="/TT/index.html">
+         <a href="transition-town/index.html">
             <h2>城镇转型</h2>
          </a>
          <p>城镇转型</p>
       </div>
       <div class="grid-item">
-         <a href="/info/organizations.html">
+         <a href="info/organizations.html">
             <h2>NGO</h2>
          </a>
          <p>环保组织</p>
       </div>
       <div class="grid-item">
-         <a href="/info/documentary.html">
+         <a href="info/documentary.html">
             <h2>纪录片</h2>
          </a>
          <p>纪录片列表</p>
       </div>
       <div class="grid-item">
-         <a href="/info/books/index.html">
+         <a href="info/books/index.html">
             <h2>图书</h2>
          </a>
          <p>图书推荐</p>
       </div>
       <div class="grid-item">
-         <a href="/SSE/index.html">
+         <a href="SSE/index.html">
             <h2>SSE</h2>
          </a>
          <p>可持续软件工程</p>
       </div>
       <div class="grid-item">
-         <a href="/projects/pp/index.html">
+         <a href="projects/pp/index.html">
             <h2>PP</h2>
          </a>
          <p>Precious Plastic</p>
@@ -158,19 +158,20 @@ You can contact me via online contact form available on `my website <http://zero
 .. toctree::
    :maxdepth: 1
    
-   走进可持续生活/index
-   垃圾都去哪儿了/index
+   quick-start/index
+   waste/index
 
-   绿色金融/index
-   环境污染/index
-   有机农业/index
-   Upcycling/index
+   green-finance/index
+   pollution/index
+   organic-agriculture/index
+   upcycling/index
    circular-economy/index
    SSE/index
    projects/index
    info/index
    business/index
    recycling/index
+   transition-town/index
 
    about/index
 
