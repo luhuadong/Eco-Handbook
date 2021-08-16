@@ -85,6 +85,10 @@ html_css_files = [
     'css/custom.css',
 ]
 
+html_js_files = [
+    'js/baidutongji.js'
+]
+
 #---sphinx_material-----
 import sphinx_material
 
