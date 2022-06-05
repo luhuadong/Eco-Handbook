@@ -125,9 +125,9 @@
 .. rst-class:: center
 .. rst-class:: index_links
 
-   `ZeroTogether <https://zerotogether.net>`_ ·
-   `Gitee <https://gitee.com/luhuadong/green-guide>`_ ·
-   `Read the Docs <https://greenguide.readthedocs.io>`_
+   `文档中心 <https://docs.zerotogether.net>`_ ·
+   `GitHub <https://github.com/luhuadong/GreenGuide>`_ ·
+   `返回主站 <https://zerotogether.net>`_
 
 .. image:: ./_static/images/qrcode_https_zerotogether.net.png
    :align: center

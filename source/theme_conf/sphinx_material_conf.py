@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '可持续生活指南'
-copyright = '2020, 可持续分享ZHE'
+copyright = '2017-2022, Zero Together'
 author = '可持续分享ZHE'
 
 # The full version, including alpha/beta/rc tags
