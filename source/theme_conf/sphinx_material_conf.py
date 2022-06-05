@@ -85,6 +85,8 @@ html_css_files = [
     'css/custom.css',
 ]
 
+html_favicon = '_static/images/zerotogether_favicon_500.png'
+
 html_js_files = [
     'js/baidutongji.js'
 ]
