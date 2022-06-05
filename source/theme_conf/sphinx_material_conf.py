@@ -103,8 +103,8 @@ html_theme_options = {
     # 'google_analytics_account': 'UA-XXXXX',
 
     # Set the repo location to get a badge with stats
-    'repo_url': 'https://gitee.com/luhuadong/green-guide',
-    'repo_name': 'green-guide',
+    'repo_url': 'https://github.com/luhuadong/GreenGuide',
+    'repo_name': 'GitHub',
 
     # Visible levels of the global TOC; -1 means unlimited
     'globaltoc_depth': 2,
