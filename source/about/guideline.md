@@ -6,11 +6,12 @@
 
 #### 格式
 
-* 文章格式使用 [Markdown](https://commonmark.org/help/)
+* 文章格式支持 [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) 和 [Markdown](https://commonmark.org/help/)
 
-* 文章格式需符合 [编写规范](https://gitee.com/luhuadong/green-guide/blob/master/about/%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83.md)
+* 文章格式需符合 [编写规范](https://docs.zerotogether.net/about/specification.html)
 
 #### 内容
+
 * 撰写的内容需符合该部分主题
 
 * 不求文风华丽，只需结构清晰，表述简洁，易读易懂
@@ -19,13 +20,14 @@
 
 * 涉及参考资料的内容需要标明来源出处并获得作者授权（或符合作品许可证）
 
-### 参与流程  
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0910/171310_88ee84ac_5694891.png "屏幕截图.png")  
+### 参与流程
+
+![参与流程](images/workflow.png)  
 **具体操作指引** 
 
 1. 从目录中选择自己想要参与编写的部分后，前往 [Issue 页面](https://gitee.com/luhuadong/green-guide/board) 进行内容认领。
 
-2. 选择自己想要认领的内容部分，对该 Issue 进行评论，评论内容为 **「作者姓名+预计完成时间+备注」** ，如 **「阿基米东，预计 10 月 30 日完成部分内容」** ，收到用户名为「Gitee」的账号回复 **「已确认」** 后，代表你就可以开始编写工作，该 Issue 会被移至 **「编写中」** 状态。
+2. 选择自己想要认领的内容部分，对该 Issue 进行评论，评论内容为 **「作者姓名+预计完成时间+备注」** ，如 **「壹个兜子，预计 10 月 30 日完成部分内容」** ，收到用户名为「Gitee」的账号回复 **「已确认」** 后，代表你就可以开始编写工作，该 Issue 会被移至 **「编写中」** 状态。
 ![](https://images.gitee.com/uploads/images/2020/0907/160203_e8605504_5694891.png "屏幕截图.png")
 
 3. 完成编写后，选择仓库中对应部分的文件进行 **[轻量级 PR](https://gitee.com/help/articles/4291)** ，审查团队将会对内容进行格式规范初审，通过后将会对 PR 进行合并，对应 Issue 进入 **「需补充」** 或 **「已完成」** 状态。
