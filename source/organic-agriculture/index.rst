@@ -9,6 +9,6 @@
 .. toctree::
    :maxdepth: 2
 
-   初识堆肥
+   compost-intro
 
 

@@ -9,25 +9,21 @@
 .. toctree::
    :maxdepth: 1
 
-   编写指南
-   编写规范
+   guideline
+   specification
 
 ----
 
 团队成员
 ----------------
 
-- Rudy
-- 辣辣
-- 林怡欣
-- Echo
-- 小娟
+- 壹个兜子
 
 
 有意参与该项目者，请先阅读《\ `编写指南`_\ 》和《\ `编写规范`_\ 》，感谢分享。
 
-.. _编写指南: https://gitee.com/luhuadong/green-guide/blob/master/about/%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97.md
-.. _编写规范: https://gitee.com/luhuadong/green-guide/blob/master/about/%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83.md
+.. _编写指南: https://docs.zerotogether.net/about/guideline.html
+.. _编写规范: https://docs.zerotogether.net/about/specification.html
 
 
 

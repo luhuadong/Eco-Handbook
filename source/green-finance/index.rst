@@ -9,6 +9,6 @@
 .. toctree::
    :maxdepth: 2
 
-   碳排放权交易是怎么回事
+   carbon-emission-rights
 
 

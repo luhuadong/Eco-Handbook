@@ -9,6 +9,6 @@
 .. toctree::
    :maxdepth: 1
 
-   可持续的生活方式
-   3R
+   sustainable-lifestyle
+   3R-concept
 

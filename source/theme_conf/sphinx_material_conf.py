@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '可持续生活指南'
-copyright = '2017-2022, Zero Together'
-author = '可持续分享ZHE'
+project = '可持续生活手册'
+copyright = '2017-2022, ZeroTogether'
+author = '壹个兜子'
 
 # The full version, including alpha/beta/rc tags
 release = 'v0.0.1'
@@ -74,7 +74,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #html_theme = 'alabaster'
 #html_theme = 'sphinx_rtd_theme'
 html_theme = 'sphinx_material'
-html_title = '可持续生活指南'
+html_title = '可持续生活手册'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

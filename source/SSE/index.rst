@@ -14,15 +14,15 @@
 .. toctree::
    :maxdepth: 1
 
-   可持续软件工程原则
-   原则1_碳
-   原则2_电
-   原则3_碳强度
-   原则4_隐含碳
-   原则5_能量均衡
-   原则6_网络效率
-   原则7_需求调整
-   原则8_优化
-   总结
-
+   introduction
+   overview
+   principle1-carbon
+   principle2-electricity
+   principle3-carbon-intensity
+   principle4-embodied-carbon
+   principle5-energy-proportionality
+   principle6-network-efficiency
+   principle7-demand-shaping
+   principle8-optimization
+   summary
 
