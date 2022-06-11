@@ -12,9 +12,19 @@
 
 
 
+参考：
+
+- [https://pypi.org/project/sphinx-sitemap/](https://pypi.org/project/sphinx-sitemap/)
+
+
+
 ### 生成 robot.txt
 
 
+
+参考：
+
+- [https://techwriter.documatt.com/2020/sphinx-sitemap.html#update-robots-txt](https://techwriter.documatt.com/2020/sphinx-sitemap.html#update-robots-txt)
 
 
 
