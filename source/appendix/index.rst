@@ -11,6 +11,7 @@
 
    community
    organizations
+   international-organizations
    recycling
    organic_farms
    business
