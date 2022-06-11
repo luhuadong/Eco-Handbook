@@ -131,4 +131,4 @@ html_sidebars = {
     "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
 }
 
-html_baseurl = 'https://docs.zerotogether.net'
+html_baseurl = 'https://docs.zerotogether.net/'

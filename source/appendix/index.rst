@@ -13,3 +13,4 @@
    organizations
    recycling
    organic_farms
+   business
