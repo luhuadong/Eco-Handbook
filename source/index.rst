@@ -167,6 +167,7 @@ You can contact me via online contact form available on `my website <http://docs
    recycling/index
    transition-town/index
 
+   appendix/index
    about/index
 
 
