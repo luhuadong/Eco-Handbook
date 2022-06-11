@@ -89,7 +89,8 @@ html_css_files = [
 html_favicon = '_static/images/zerotogether_favicon_500.png'
 
 html_js_files = [
-    'js/baidutongji.js'
+    'js/baidutongji.js',
+    'js/custom.js'
 ]
 
 #---sphinx_material-----
