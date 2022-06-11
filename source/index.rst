@@ -6,7 +6,7 @@
 
 .. raw:: html
 
-   <h1 align="center">可持续生活指南</h1>
+   <h1 align="center">可持续生活手册</h1>
    <p align="center">
       <img src="_static/images/top-graphic.jpg">
    </p>
@@ -17,9 +17,11 @@
    </div>
    -->
 
+   <!--
    <div style="position: relative; padding: 30% 45%;">
       <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=202973587&bvid=BV14a411F7C1&cid=262449069&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
    </div>
+   -->
 
    <br>
 
@@ -36,14 +38,6 @@
          </a>
          <p>垃圾都去哪儿了</p>
       </div>
-      <!--
-      <div class="grid-item">
-         <a href="21天零垃圾手册/index.html">
-            <h2>21天手册</h2>
-         </a>
-         <p>21天零垃圾生活养成手册</p>
-      </div>
-      -->
       <div class="grid-item">
          <a href="info/organic_farms.html">
             <h2>CSA</h2>
@@ -138,7 +132,7 @@
 
 我有想参与环保，过可持续生活，但我不知道怎么做......
 
-You can contact me via online contact form available on `my website <http://zerotogether.net>`_.
+You can contact me via online contact form available on `my website <http://docs.zerotogether.net>`_.
 
 许可
 ============
@@ -179,7 +173,7 @@ You can contact me via online contact form available on `my website <http://zero
 关于
 ==================
 
-.. literalinclude:: about.index
+.. literalinclude:: about/index.rst
 
 
 Indices and tables

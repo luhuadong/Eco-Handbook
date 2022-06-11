@@ -8,7 +8,7 @@
 .. rst-class:: index_links
 
    `返回首页 <index.html>`_ ·
-   `参与贡献 <https://gitee.com/luhuadong/green-guide>`_
+   `参与贡献 <https://github.com/luhuadong/GreenGuide>`_
 
 |
 

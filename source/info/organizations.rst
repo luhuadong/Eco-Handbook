@@ -140,7 +140,7 @@ ZeroWaste
 GoZeroWaste
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../21天零垃圾手册/images/gozerowaste_footer.jpg
+.. image:: ./images/gozerowaste_footer.jpg
    :align: center
    :width: 400
 
