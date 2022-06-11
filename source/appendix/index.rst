@@ -9,7 +9,7 @@
 .. toctree::
    :maxdepth: 1
 
-
+   community
    organizations
    recycling
    organic_farms
