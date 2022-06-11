@@ -7,7 +7,7 @@
 
 在能量均衡系统中，能效是一个常数，无论利用率如何变化，能效都是不变的。然而，硬件的能效并不是恒定的。它因环境而异。由于硬件设备的许多不同组件之间的交互很复杂，因此它可能是非线性的，这意味着功率和利用率之间的关系不成比例。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/7-energy-proportionality-1.svg
+.. image:: ./images/7-energy-proportionality-1.svg
    :align: center
    :width: 400
 
@@ -37,3 +37,8 @@
 考虑到这一点，在利用率较低时降低时钟速度可以提高能效，从而最大限度地提高硬件的能效。
 
 |
+
+
+----
+
+.. note:: 版权声明：SSE 系列文章翻译自 `Microsoft <https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/>`_ 原创文章，遵循 CC-BY-SA-4.0 版权协议，转载请附上原文出处链接和本声明。

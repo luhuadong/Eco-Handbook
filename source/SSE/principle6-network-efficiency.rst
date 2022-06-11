@@ -5,7 +5,7 @@
 
 当你在 Internet 上发送数据时，你会通过该网络中的许多设备发送数据，而这些设备都会消耗电力。因此，在 Internet 上发送或接收的任何数据都会产生碳排放。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/8-network-efficiency-1.svg
+.. image:: ./images/8-network-efficiency-1.svg
    :align: center
    :width: 400
 
@@ -28,3 +28,8 @@ The Shift Project 在 2019 年进行的一项研究中提出了 1 字节模型�
 
 
 |
+
+
+----
+
+.. note:: 版权声明：SSE 系列文章翻译自 `Microsoft <https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/>`_ 原创文章，遵循 CC-BY-SA-4.0 版权协议，转载请附上原文出处链接和本声明。

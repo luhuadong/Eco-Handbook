@@ -16,13 +16,13 @@
 
 由于可再生能源的可变性，碳强度也会随时间而变化。例如，当天气阴暗或无风时，碳强度会增加，因为在你的混合能源中，更多的电力来自于排放碳的能源。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/5-carbon-intensity-1.svg
+.. image:: ./images/5-carbon-intensity-1.svg
    :align: center
    :width: 540
 
 在一天当中，电力需求会不断变化，而这种需求需要通过能源供应来满足。有些能源供应很容易控制它所产生的电力；例如，煤电厂可以少烧煤。有些能源供应不能轻易控制它所产生的电力；例如，风力发电场不能控制风的大小，它只能丢弃（缩减）基本上是免费生产的电力。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/5-carbon-intensity-2.svg
+.. image:: ./images/5-carbon-intensity-2.svg
    :align: center
    :width: 440
 
@@ -40,7 +40,7 @@
 
 化石燃料发电厂的碳强度很难缩减为零，它们有一个最低的运行门槛。有的根本不缩减，它们被认为是稳定可用的的基本负荷。正因为如此，我们有时会遇到一种反常的情况，即，丢弃（缩减）免费生产的可再生能量，以消耗化石燃料发电厂用花了钱的燃料生产的能量。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/5-carbon-intensity-3.svg
+.. image:: ./images/5-carbon-intensity-3.svg
    :align: center
    :width: 480
 
@@ -60,7 +60,7 @@
 
 全方位审视你的应用程序，找出灵活运行工作负荷的机会，并使用电的碳强度来指示何时或是否运行这些工作负荷。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/5-carbon-intensity-4.svg
+.. image:: ./images/5-carbon-intensity-4.svg
    :align: center
    :width: 480
 
@@ -77,3 +77,7 @@
 
 |
 
+
+----
+
+.. note:: 版权声明：SSE 系列文章翻译自 `Microsoft <https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/>`_ 原创文章，遵循 CC-BY-SA-4.0 版权协议，转载请附上原文出处链接和本声明。

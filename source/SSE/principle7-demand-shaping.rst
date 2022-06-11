@@ -5,7 +5,7 @@
 
 需求调整也是一种类似的策略，但我们不是将需求转移到不同的地区或时间，而是将需求调整为与现有的供应相匹配。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/9-demand-shaping-1.svg
+.. image:: ./images/9-demand-shaping-1.svg
    :align: center
    :width: 400
 
@@ -42,3 +42,8 @@
 
 
 |
+
+
+----
+
+.. note:: 版权声明：SSE 系列文章翻译自 `Microsoft <https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/>`_ 原创文章，遵循 CC-BY-SA-4.0 版权协议，转载请附上原文出处链接和本声明。

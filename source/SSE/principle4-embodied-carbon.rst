@@ -26,12 +26,12 @@
 
 核算隐含碳的一种方法是在设备的预期寿命期内摊销碳。例如，如果建造一台假想的服务器需要 4,000 Kg 碳，而我们希望这台服务器有 4 年的寿命，则可以认为这相当于在其寿命期内每年释放 1,000 Kg 的碳。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/6-embodied-carbon-1.svg
+.. image:: ./images/6-embodied-carbon-1.svg
    :align: center
 
 如果以这种方式计算隐含碳，任何设备，即使是不耗电的设备，也会在其生存期内有效地释放碳。考虑到这一点，如果对于假想的服务器，按 5 年而不是 4 年摊销这 4,000 Kg 碳，那么每年释放的碳将减少到 800 Kg。
 
-.. image:: https://docs.microsoft.com/zh-cn/learn/modules/sustainable-software-engineering-overview/media/6-embodied-carbon-2.svg
+.. image:: ./images/6-embodied-carbon-2.svg
    :align: center
 
 如果我们对前面讨论的 2019 R640 戴尔服务器的使用寿命应用这一概念，将其使用寿命从 4 年延长至 5 年，那么，摊销的碳将从 320 kg CO (2)eq/年降至 256 kg CO (2)eq/年。
@@ -39,3 +39,8 @@
 硬件之所以退役，要么是因为它发生了故障，要么是因为它难以处理现在的工作负荷。软件无法帮助解决第一个问题，但是，如果我们专注于构建能够在旧硬件上运行的应用程序，就可以帮助解决第二个问题。
 
 |
+
+
+----
+
+.. note:: 版权声明：SSE 系列文章翻译自 `Microsoft <https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/>`_ 原创文章，遵循 CC-BY-SA-4.0 版权协议，转载请附上原文出处链接和本声明。

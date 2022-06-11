@@ -31,3 +31,8 @@ GHG 有很多种。最常见的是二氧化碳 (CO2)。为了便于计算，我�
 在工程领域，我们在解决气候问题上发挥的作用就是 **构建具有碳效率的应用程序**。 具有碳效率是指构建能够为你或你的用户增加相同价值，但碳排放更少的应用程序。
 
 |
+
+
+----
+
+.. note:: 版权声明：SSE 系列文章翻译自 `Microsoft <https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/>`_ 原创文章，遵循 CC-BY-SA-4.0 版权协议，转载请附上原文出处链接和本声明。
