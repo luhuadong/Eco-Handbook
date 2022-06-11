@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '可持续生活手册'
-copyright = '2017-2022, ZeroTogether'
+copyright = '2017-2022, 壹个兜子@ZeroTogether'
 author = '壹个兜子'
 
 # The full version, including alpha/beta/rc tags
@@ -97,7 +97,7 @@ import sphinx_material
 
 html_theme_options = {
     # 'base_url': base_url,
-    'color_primary': 'green',  # light-green
+    'color_primary': 'green',  # green, light-green
     'color_accent': 'orange',
     'logo_icon': '&#xe152',  # &#xe869  &#xe150
     'master_doc': False,
@@ -112,7 +112,7 @@ html_theme_options = {
     # Visible levels of the global TOC; -1 means unlimited
     'globaltoc_depth': 2,
     # If False, expand all TOC entries
-    'globaltoc_collapse': False,
+    'globaltoc_collapse': True,
     # If True, show hidden TOC entries
     'globaltoc_includehidden': False, 
 
